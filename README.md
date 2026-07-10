@@ -42,7 +42,7 @@ The repository includes solutions to all assigned tasks, project files, dashboar
 * MYSQL Integration
 * Python Visuals
 
-### 🐍 Python
+### Python
 
 * Data Cleaning with Pandas
 * Exploratory Data Analysis (EDA)
