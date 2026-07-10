@@ -106,4 +106,4 @@ Location: Abuja, Nigeria
 
 ---
 
-⭐ Thank you for visiting this repository. Feedback, suggestions, and collaboration opportunities are welcom
+Thank you for visiting this repository. Feedback, suggestions, and collaboration opportunities are welcome
